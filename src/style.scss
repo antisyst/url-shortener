@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Chakra Petch', sans-serif;
+    background: #000;
+    color: #ffff;
+}
+::selection {
+    background: #0177ff;
+    color: #ffff;
+}
